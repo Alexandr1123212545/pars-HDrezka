@@ -12,7 +12,7 @@ Pars-HDrezka is a script for gathering information from the HDrezka website, spe
     `.\venv\Script\acrivate`
 5. Install dependencies:
    `pip install -r requirements.txt`
-6.  Determine the list of pages, specifying the first and last pages in the script:
+6.  Determine the list of pages in main.py, specifying the first and last pages in the script:
        ```
     FIRST_PAGE = 'first page'
     LAST_PAGE = 'last page'
