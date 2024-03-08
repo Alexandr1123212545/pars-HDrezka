@@ -20,4 +20,4 @@ Pars-HDrezka is a script for gathering information from the HDrezka website, spe
 7. Run script!
 
 
-As a result, you get a JSON file. Each block describes one movie and contains information about its title, release year, country of production, genre, and a link to the movie's page on the website.
+As a result, you get a "movies.json" file. Each block describes one movie and contains information about its title, release year, country of production, genre, and a link to the movie's page on the website.
